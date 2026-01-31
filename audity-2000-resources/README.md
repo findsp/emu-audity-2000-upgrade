@@ -1,5 +1,3 @@
-This folder includes various documents, resources, and other EMU Audity 2000 manuals & .pdf 
-
 # E-MU Audity 2000 Sound Module
 
 The Audity 2000 is based on an entirely new design which combines:
@@ -59,3 +57,4 @@ This procedure destroys any presets stored in RAM.
 
 [View E-MU Audity 2000 Sound Module](https://www.emumania.net/emu-audity-2000-sound-module/)
 
+This folder includes various documents, resources, and other EMU Audity 2000 manuals & .pdf 
