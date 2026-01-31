@@ -1,0 +1,14 @@
+-----------------------------------------------------------------------
+  E-mu Audity Updater
+  (C) 2026 Ray Bellis
+-----------------------------------------------------------------------
+
+These firmware images for updating the E-mu Audity 2000 are made
+available under the Creative Commoms BY-NC-ND license:
+
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+For the purposes of the NonCommercial term, pre-programmed ROMs may be
+distributed for not more than GBP 5.00 plus reasonable postage charges.
+
+Original firmware (C) 1998-2000 E-mu Systems and their successors.
