@@ -38,6 +38,15 @@ In the (unlikely) event of a failure, **UK users are welcome to visit the author
 
 - Place a **jumper across the two lower pins of W1**, labelled **“8”**.
 
+
+### Jumper Configuration
+
+![Audity 2000 W1 Jumper Location](https://raw.githubusercontent.com/findsp/emu-audity-2000-upgrade/refs/heads/main/images/picture-jumper.jpg)
+
+### Upgrade ROM Socket (U13)
+
+![Audity 2000 PLCC32 Socket Location](https://raw.githubusercontent.com/findsp/emu-audity-2000-upgrade/refs/heads/main/images/picture-socket.jpg)
+
 ---
 
 ### Running the updater
