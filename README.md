@@ -54,6 +54,9 @@ In the (unlikely) event of a failure, **UK users are welcome to visit the author
 - A video demonstration of the upgrade process is available here:  
  [▶ Watch the upgrade demo on YouTube](https://www.youtube.com/watch?v=V7Mba2Qw8JA)
 
+[![Ray Bellis – E-mu Audity 2000 Upgrade Demo](https://img.youtube.com/vi/V7Mba2Qw8JA/0.jpg)](https://www.youtube.com/watch?v=V7Mba2Qw8JA)
+
+
 ---
 
 ### After updating
