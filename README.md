@@ -102,9 +102,7 @@ Full license text:
 
 ## Attribution
 
-Original work by: <a href="https://www.youtube.com/watch?v=V7Mba2Qw8JA" target="_blank" rel="noopener">Ray Bellis</a>
-
-![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+Original work by: <a href="https://www.youtube.com/watch?v=V7Mba2Qw8JA" target="_blank" rel="noopener">Ray Bellis</a> ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)  
 This repository redistributes the original, unmodified release
 with permission granted under the original license.
 
