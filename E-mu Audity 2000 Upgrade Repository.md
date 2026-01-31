@@ -1,3 +1,7 @@
+### Audity 2000 Images
+
+![Audity 2000 Front](https://raw.githubusercontent.com/findsp/emu-audity-2000-upgrade/refs/heads/main/images/audity-2000.png)
+
 # E-mu Audity 2000 Upgrade Repository
 
 ## Why this Repo Was Created
